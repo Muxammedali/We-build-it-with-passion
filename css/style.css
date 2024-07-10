@@ -118,7 +118,7 @@ body {
   margin: 0 auto 206px;
 }
 
-/*О нас*/
+/*About Us*/
 .about {
   height: 1129px;
   padding-top: 128px;
@@ -160,7 +160,7 @@ body {
   line-height: 22px;
   color: #b7b7b7;
 }
-/*Команда*/
+/*Team*/
 .team {
   height: 745px;
 }
@@ -223,7 +223,7 @@ body {
 .team__icon-box a:hover {
   color: #949494;
 }
-/* Услуги */
+/* Services */
 .provide {
   background-color: #181818;
   padding-bottom: 155px;
@@ -273,7 +273,7 @@ body {
   color: #383838;
   margin: 0;
 }
-/* Форма */
+/* Shape */
 .contact .block__head .block__title {
   padding-top: 95px;
 }
